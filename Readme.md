@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer science at JCT 
 - 📫 How to reach me- Avichayk1@gmail.com 
+
 -picture i built with java cod
 <!---
 avichayk1/avichayk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
