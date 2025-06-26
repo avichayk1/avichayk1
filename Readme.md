@@ -1,7 +1,7 @@
 # Avichay Kadosh  
 **Software Developer | Computer Science Graduate**
 
-📧 avichayk1@gmail.com | 📱 052-2405753 | [LinkedIn](https://linkedin.com/in/avichaykadosh) | [Website](https://avichay-website) | [GitHub](https://github.com/avichaykadosh)
+📧 avichayk1@gmail.com | 📱 052-2405753 | [LinkedIn](https://linkedin.com/in/avichaykadosh) | [Website](https://avichay-website) 
 
 ---
 
