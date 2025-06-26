@@ -50,6 +50,11 @@ Live data merging and visualization with file upload, built using Streamlit, Pan
 ### Memorial App — [neshama-app.vercel.app](https://neshama-app.vercel.app)  
 Live personalized content generation app built with serverless React and deployed on Vercel.
 
+### 3D Image Rendering (Java)  
+Developed a 3D image rendering application demonstrating advanced graphics programming concepts.
+
+### Drone Management System (C# .NET)  
+Built a management system for controlling and monitoring drones, utilizing C# and the .NET framework.
 ---
 
 ## Education  
